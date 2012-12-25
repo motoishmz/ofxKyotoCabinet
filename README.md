@@ -1,7 +1,8 @@
 ofxKyotoCabinet
 ===============
 
-[Kyoto Cabinet](http://fallabs.com/kyotocabinet/): a straightforward implementation of DBM.
+[Kyoto Cabinet](http://fallabs.com/kyotocabinet/): a straightforward implementation of Fast, scalable, small dataBase management.
+
 
 
 ## Installation
